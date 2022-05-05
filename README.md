@@ -1,2 +1,2 @@
-# dio_desafio
-Desafio de Projeto
+# Repositório Dio (Digital Innovation One) 
+Este repositório é dedicado aos trabalhos desenvolvidos nos bootcamps da Dio.
