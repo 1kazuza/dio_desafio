@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+.first_container {
+    display: flex;        
+    background-color: midnightblue;
+}
+
+#first_title {
+    float: left;
+}
+
+.first_items {    
+    float: right;
+    list-style-type: none;
+    margin: 5px;
+
+}
